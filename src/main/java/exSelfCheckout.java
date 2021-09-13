@@ -22,7 +22,7 @@ public class exSelfCheckout {
 
         System.out.println("Enter the price of item 3: ");
         String item3 = sc.nextLine();
-        System.out.println("Enter the quantity of item 1: ");
+        System.out.println("Enter the quantity of item 2: ");
         String quant3 = sc.nextLine();
 
         //Conversion from String to double and integer
